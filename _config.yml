@@ -1,8 +1,8 @@
 # Site settings
-title: Modern Blog V2
-description: Modern-Blog A Elegant template for Jekyll
+title: 实验测试
+description: 静态界面
 keywords: Modern, Blogging, Fun
-author: Nadun
+author: Bob 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "diantongqingjie.github.io" # the base hostname & protocol for your site
 gems: [jekyll-paginate,jekyll-seo-tag,jekyll-sitemap]
