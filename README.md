@@ -1,3 +1,5 @@
+模仿
+
 # Jekyll Modern Blog Alternative Version
 
 A Simple, Clean and responsive modern blog for jekyll.
